@@ -1,4 +1,8 @@
 #Django based Ecommerce Web App
+
+###Muhammad Noman Baig EB19103073
+###Shehroz Ahmed Khan EB19103111
+
 ##Areas covered
 ### SignUp Page :
 <p>-- User have to register to purchase items.</p>
