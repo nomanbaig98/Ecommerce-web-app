@@ -1,8 +1,4 @@
-#Django based Ecommerce Web Application#
-
-[//]: # ( Path: CHANGELOG.md
-###Muhammad Noman Baig EB19103073
-###Shehroz Ahmed Khan EB19103111
+#Django based Ecommerce Web Application
 
 ### SignUp Page :
 <p>-- User have to register to purchase items.</p>
