@@ -1,4 +1,4 @@
-#Django based Ecommerce Web Application
+##Django based Ecommerce Web Application
 
 ### SignUp Page :
 <p>-- User have to register to purchase items.</p>
