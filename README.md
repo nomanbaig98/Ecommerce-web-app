@@ -1,5 +1,6 @@
-#Django based Ecommerce Web App
+#Django based Ecommerce Web Application#
 
+[//]: # ( Path: CHANGELOG.md
 ###Muhammad Noman Baig EB19103073
 ###Shehroz Ahmed Khan EB19103111
 
