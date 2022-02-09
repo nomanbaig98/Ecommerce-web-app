@@ -1,4 +1,4 @@
-#Django based Ecommerce Web Application Daraz Lite
+#Daraz Lite
 
 ### SignUp Page :
 <p>-- User have to register to purchase items.</p>
