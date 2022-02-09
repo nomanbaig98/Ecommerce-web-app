@@ -17,7 +17,7 @@
                             </div>
                             <div style="flex:1">
                                 <strong>Total</strong>
-                                <h6>&#8377;{{order.order.amount}}</h6>
+                                <h6>&#8360;{{order.order.amount}}</h6>
                             </div>
                             <div style="flex:1">
                                 <strong>Shipped to :</strong>
@@ -31,11 +31,11 @@
                         <div class="cart-row" style="background-color: lightblue;height: 80px">
                             <div style="flex:1"><img style="width: 80px; height: 80px;margin-left: 20px" class="row-image" src="{{item.get_imageURL}}"></div>
                             <div style="flex:1"><p>Product :{{item.name}}</p></div>
-                            <div style="flex:1"><p>Price :&#8377;{{item.price}}</p></div>
+                            <div style="flex:1"><p>Price :&#8360;{{item.price}}</p></div>
                             <div style="flex:1">
                                 <p class="quantity">Quantity :{{item.quantity}}</p>
                             </div>
-                            <div style="flex:1"><p>Total :${{item.get_total}}</p></div>
+                            <div style="flex:1"><p>Total :Rs{{item.get_total}}</p></div>
                         </div>
                     {% endfor %}
                 </div>
